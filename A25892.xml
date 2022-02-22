@@ -1,0 +1,1011 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Art and mystery of vintners and wine-coopers containing approved directions for the conserving and curing all manner and sorts of wines, whether Spanish, Greek, Italian, or French, very necessary for all sorts of people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25892</idno>
+            <idno type="STC">Wing A3783</idno>
+            <idno type="STC">ESTC R10698</idno>
+            <idno type="EEBO-CITATION">12032264</idno>
+            <idno type="OCLC">ocm 12032264</idno>
+            <idno type="VID">52763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 884:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Art and mystery of vintners and wine-coopers containing approved directions for the conserving and curing all manner and sorts of wines, whether Spanish, Greek, Italian, or French, very necessary for all sorts of people.</title>
+               </titleStmt>
+               <extent>[8], 79, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Whitford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Table of contents: p. [2]-[8] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wine and wine making --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52763:1" rendition="simple:additions"/>
+            <p>THE <hi>Art and Myſtery</hi> OF VINTNERS AND WINE-COOPERS: CONTAINING Approved Directions for the Conſerving and Cu<g ref="char:EOLhyphen"/>ring all manner and ſorts OF WINES, Whether <hi>Spaniſh, Greek, Italian,</hi> or <hi>French,</hi> very ne<g ref="char:EOLhyphen"/>ceſſary for all ſorts of People.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Will. Whitwood,</hi> at the <hi>Croſs-Keys</hi> at <hi>Salisbury-ſtreet</hi> in the <hi>Strand.</hi> 1682.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:52763:2"/>
+            <pb facs="tcp:52763:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou art here preſented with a new Treatiſe of the <hi>Art and Myſtery of Vintners and Wine-Coo<g ref="char:EOLhyphen"/>pers,</hi> in their Conſerving and Curing all ſorts of Wines; which though but ſmall, I can aſſure thee, doth fully compre<g ref="char:EOLhyphen"/>hend all that can poſſibly be
+<pb facs="tcp:52763:3"/>ſaid concerning this Subject: And ſo 'tis like <hi>Homer</hi>'s Ili<g ref="char:EOLhyphen"/>ads in a Nut-ſhell; and all this with ſo much plainneſs, that the weakeſt Capacity may, by the help of this little Book, become Master, without a Ma<g ref="char:EOLhyphen"/>ſter, of this Mystery. For here he may behold how; as in many other Caſes, ſo in this of Wines, Art oftentimes is Na<g ref="char:EOLhyphen"/>ture's Phyſician, in curing them of the Diſtempers to which they are often incident. For doth it happen that through Age, or other Accidents, they are fallen into a Conſumption,
+<pb facs="tcp:52763:3"/>or decay of Nature? here the Artist preſcribes your restora<g ref="char:EOLhyphen"/>tive Cordials to revive them. Doth any heterogeneous Matter offend or overburthen them, which they cannot of their own ſtrength, or helpof Fermenta<g ref="char:EOLhyphen"/>tion, diſcharge? here are pro<g ref="char:EOLhyphen"/>per Catharticks laid down for expelling ſuch a troubleſome Gueſt. Or have they after ſome Fit of Sickneſs, or other ways, lost their natural Colour and Beauty? here you will find variety of means of re-embelliſh and adorn them. Laſtly, The which and the rest are common
+<pb facs="tcp:52763:4"/>to Wines with Animals: Have they lost their Taſte? here you, find approved Remedies for its recovery. In recompence of all which Favours received from the Art of man, Wine is of ſo generous a nature, that it grate<g ref="char:EOLhyphen"/>fully and reciprocally repays him, with the moſt precious Cordial under the Sun; the true <hi>Elixir Vitae, Salutis, Proprietatis,</hi> or whatſoeve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Name the cheating Chy<g ref="char:EOLhyphen"/>miſts give their ſophiſticate Traſh: by this conſerving him to a florid old age, by cheriſh<g ref="char:EOLhyphen"/>ing his natural Heat, helping
+<pb facs="tcp:52763:4"/>his Concoction, removing all Sadneſs, Obſtructions and Winds, ſo as it were revivify<g ref="char:EOLhyphen"/>ing him. And thus having acquainted thee what great Be<g ref="char:EOLhyphen"/>nefits thou maiſt reap from the buying of this Book, I have no more to ſay, but to tell thee, If thou art curious to be fur<g ref="char:EOLhyphen"/>ther inform'd concerning this Subject, thou maiſt be fully ſa<g ref="char:EOLhyphen"/>tisfied from a Treatiſe of this kind, written by the learned Dr. <hi>Charleton.</hi> And ſo I bid thee Adieu.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52763:5"/>
+            <pb n="1" facs="tcp:52763:5"/>
+            <head>THE Art and Myſtery OF VINTNERS AND WINE-COOPERS.</head>
+            <div n="1" type="book">
+               <p n="1">1.<hi>The beſt way for to help the fretting or boyling of any piece of</hi> Spaniſh <hi>Wine.</hi>
+               </p>
+               <p>TAke the Butt or Pipe that fre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s or boyls, and rack it off clean from the groſs Lee; then take two or three pennyworth of the ſtrongeſt <hi>Aqua vitae,</hi> and put it in at the Bung-hole, as you do a piece
+<pb n="2" facs="tcp:52763:6"/>of Scent, and it will burn in the Pipe very well: Be ſure that you drain the Pipe well; and this will lay the fret<g ref="char:EOLhyphen"/>ting of it.</p>
+               <p n="2">2.<hi>To keep Wines ſound and freſh all the year.</hi>
+               </p>
+               <p>YOu muſt fill your veſſel once a month or ſix weeks with your beſt Reeds you can get: for Reeds do preſerve the Claret as Soot doth Malmoſey or Baſtard. Fill White and all other Wines with the ſame; and thoſe you intend to keep, give them their Lees a day together; then at night lay them upright, and be careful to keep them; if lack vent in any place they will faint and ſpoil.</p>
+               <p>Note that <hi>July</hi> and <hi>Auguſt</hi> are the worſt months to keep Wines in.</p>
+               <p n="3">3.<hi>For</hi> Canary <hi>that hath a flying Lee.</hi>
+               </p>
+               <p>IF your Canary hath a flying Lee, and will not find down, draw him
+<pb n="3" facs="tcp:52763:6"/>into a freſh Butt or Pipe with freſh Lees, and give him a good pearl with the whites of 8 Eggs, and beat them with a handful of white Salt: And if it be any whit tawny, put thereto a gallon of Milk, and beat it well, then lay it upright, ſtop it cloſe; and in two days broach it if you will.</p>
+               <p n="4">4.<hi>To make or divide</hi> Malmoſey.</p>
+               <p>IF you have three Butts of Malmo<g ref="char:EOLhyphen"/>ſey you may make four if you pleaſe: If you have two, you may make three; if one Butt, you may make one and a half thereof, with ſuch Laggs as you have of White, Claret, and Canary that are old, with two gallons of Cutt to every Butt, ſo that it be Spa<g ref="char:EOLhyphen"/>niſh Cutt. This way you may rid your Leggs and old Canary away. The Art followeth.</p>
+               <p n="5">
+                  <pb n="4" facs="tcp:52763:7"/>5.<hi>The Art of Making or Dividing</hi> Mal<g ref="char:EOLhyphen"/>moſey.</p>
+               <p>TAke to every Butt ſix Eggs both yelks and whites, and a handful of Bay-ſalt, beat them well together, mixing therewith a pint of old Sack, and put it into the Butt; then beat the Butt well; and if it want a co<g ref="char:EOLhyphen"/>lour, take two gallons of Red-wine, and a quarter of a pound of Coriander ſeed well beaten ſinall; mix them to<g ref="char:EOLhyphen"/>gether, and put them into the Butt; then give it ſix or eight ſtroaks more, then ſtop it three or four days; broach it after at your will.</p>
+               <p n="6">6.<hi>For Claret that hath loſt his Co<g ref="char:EOLhyphen"/>lour.</hi>
+               </p>
+               <p>TAke a pennyworth of Damſons or Bullace, or more if you ſee good, and ſtew them in Red-wine, and make a pottle or more of the Syrup.</p>
+               <p n="7">
+                  <pb n="5" facs="tcp:52763:7"/>7.<hi>For Baſtard that pricks.</hi>
+               </p>
+               <p>RAck him upon a good Muſcadine Lee, then take three gallons of the beſt Ale, and put therein two or three Almonds, then fill it up with Baſtard Syrup or Canary mixed with your Laggs, and it will draw for Ba<g ref="char:EOLhyphen"/>ſtard or Muſcadine.</p>
+               <p n="8">8.<hi>Another for the ſame.</hi>
+               </p>
+               <p>TAke five gallons of clarified Ho<g ref="char:EOLhyphen"/>ney, and put it into your Cask, and beat in it a pearl of the whites and yolks of 6 Eggs, and let it reſt.</p>
+               <p n="9">9.<hi>To make brown Baſtard.</hi>
+               </p>
+               <p>TAke the Laggs of Clarret or White-wine, and put them into your Cask, with your Laggs of Spa<g ref="char:EOLhyphen"/>niſh wine before you do prick; then take 30 or 40 pounds of Baſtard Sy<g ref="char:EOLhyphen"/>rup, and beat it well with the ſame
+<pb n="6" facs="tcp:52763:8"/>wine in a half Tub, then put it into your Cask and beat it up with pearl of the yelks and whites of Eggs, and let it reſt.</p>
+               <p n="10">10.<hi>For White-wine that hath loſt its colour with lying.</hi>
+               </p>
+               <p>OVerdraw the Hogſhead of wine ſome five or ſix gallons; take three gallons of new Milk, put it into a pale, and let it remain there till the cream be ſettled for 30 hours; then skim it and put it into the Hogſ<g ref="char:EOLhyphen"/>head, and beat it well, and then all it up; and if it be in the morning, the next morning it will be fine: you may add to it a little Starch and a little Bay-ſalt beaten together as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+               <p n="11">11.<hi>Sack that is lumpiſh or lowring.</hi>
+               </p>
+               <p>BEat the whites of 6 or 8 Eggs with Bay-ſalt, Roch-allom, and a quart of Bean flower or beaten Rice,
+<pb n="7" facs="tcp:52763:8"/>if it be brown, but if white uſe Milk; beat all theſe together, then blow off the froth very clean, and lay a clean ſherd of a Tyle over the Bung-hole: let it lie till it be fine, then rack it off with a good ſcent, and it will draw well.</p>
+               <p n="12">12.<hi>For Sack or any other Wine that doth prick or boyl.</hi>
+               </p>
+               <p>TAke 30 or 40 of the whiteſt Lime-ſtones you can get, ſlake them in a pottle of the ſame Wine in a Cann, then take more wine and ſtirr them together; and put it into your Cask, and ſtir it well till you think it be enough. Let it reſt till it be fine, and it will take away the pricking, and make it drink kindly.</p>
+               <p n="13">13.<hi>How to make Scent.</hi>
+               </p>
+               <p>TAke four ounces of Brimſtone and a little Allom, and a ſpoon<g ref="char:EOLhyphen"/>ful of <hi>Aqua vitae</hi> and mix them toge<g ref="char:EOLhyphen"/>ther,
+<pb n="8" facs="tcp:52763:9"/>then take a piece of new Canvas and dip therein; then muſt you have in readineſs the powder of Nutmegs and a few Cloves or Orange peels, a few Coriander-ſeeds and Anniſeeds, being ready bruiſed before your Brimſtone be cold: ſtrew them upon your Cloth, and when it is cold lay it upon a clean paper, and it will be very good for your Cask.</p>
+               <p n="14">14.<hi>How to make Ipocris.</hi>
+               </p>
+               <p>TAke for a gallon of White a pound of Sugar, one ounce of Cinamon beaten, 2 or 3 ounces of Cloves, two ounces of Gallingall, half an ounce of Grenes; bruiſe your ſpice together with a handful of Roſemary, and let it ſtand and ſteep 12 hours, then ſtir it well together, and put it into an Ipocris bag, and let it run into a clear Veſſel, and ſo you may draw it.</p>
+               <p n="15">
+                  <pb n="9" facs="tcp:52763:9"/>15.<hi>To fine your Wines and make them pleaſant.</hi>
+               </p>
+               <p>TAke white peble ſtones, and bake them in an Oven till they begin to crack, then beat them to fine powder; then with a good quantity of Stone-honey clarified, and ſo in ſome of the ſame diſ<g ref="char:EOLhyphen"/>ſolve them and put them into your Cask, and ſtir them with your padle<g ref="char:EOLhyphen"/>ſtaff, and in a day they will be fine.</p>
+               <p n="16">16.<hi>For Ipecris Gyle.</hi>
+               </p>
+               <p>CInamon one ounce, Ginger half an ounce, grains 2 <hi>d.</hi> Long-pep<g ref="char:EOLhyphen"/>per, Cloves, Coriander-ſeeds, Cali<g ref="char:EOLhyphen"/>mas andores, Nutmegs, Cariway-ſeeds 2 <hi>d.</hi> Lemons, Roſewater, Bay-leaves and Roſemary.</p>
+               <p n="17">
+                  <pb n="10" facs="tcp:52763:10"/>17.<hi>Another for the ſame.</hi>
+               </p>
+               <p>GInger 3 ounces, Cinamon 3 oun<g ref="char:EOLhyphen"/>ces, Calamus one ounce, Cloves half an ounce, Coriander ſeeds three ounces, Nutmegs three pennyworth, Long-pepper three pennyworth.</p>
+               <p n="18">18.<hi>Another for the ſame.</hi>
+               </p>
+               <p>CInamon 3 ounces, Cariophilo<g ref="char:EOLhyphen"/>rum 2 ounces, Cardimum and Cubebis, Gallingal half an ounce, Jingiberis one ounce, Cantherum 3 pennyworth, Grana Paradica 3 penny<g ref="char:EOLhyphen"/>worth.</p>
+               <p n="19">19.<hi>Then for the Spaniſh-Wines, Sherry, Sacks, white and hard be beſt.</hi>
+               </p>
+               <p>RIght Malagaes are as good as Canaries, but the other are pleaſanter.</p>
+               <p>Right Muſcadines are hard to come by, therefore they are commonly com<g ref="char:EOLhyphen"/>pounded.</p>
+               <p n="20">
+                  <pb n="11" facs="tcp:52763:10"/>20.<hi>Wines commonly compounded.</hi>
+               </p>
+               <p>IPocris, Brown Baſtard, White Ba<g ref="char:EOLhyphen"/>ſtard, Rumrey, Hallacker, Aligant: and theſe likewiſe, Frantigniack, Tent, Cutt, Rheniſh, and Deal Wines.</p>
+               <p n="21">21.<hi>The fitteſt times to rack Wines.</hi>
+               </p>
+               <p>RAck your Wines when the wind is in the North, and when it is clear and temperate weather; in the Increaſe of the Moon, when ſhe is un<g ref="char:EOLhyphen"/>der the Earth, and not in the full heighth. They turn eager before <hi>Whitſuntide;</hi> through extraordinary heat they turn eager, or otherwiſe ill-conditioned.</p>
+               <p n="22">22.<hi>For White-wine that hath loſt its Colour.</hi>
+               </p>
+               <p>FIrſt rack him for his Lees, then if you have any Coniack Lees, you may put your faint and tawny Wine
+<pb n="12" facs="tcp:52763:11"/>upon them; rowl them over and beat them, and within the ſpace of 10 or 12 days rack them off; then ſhall you have it drink brisk and white.</p>
+               <p n="23">23.<hi>How to break Wine that roaps.</hi>
+               </p>
+               <p>TAke a courſe harden Cloth, and put it before the Bore when you have ſet it abroach; then put in your Leathers, and rack it into a dry Cask; then take 5 or 6 ounces of beaten Al<g ref="char:EOLhyphen"/>lom, and put it in, and beat that Wine and Allom well together, and it will fine down very well.</p>
+               <p n="24">24.<hi>How to make any Wine fine ſpeedily.</hi>
+               </p>
+               <p>TAke a handful of dried Lemmon<g ref="char:EOLhyphen"/>rine, and put it into 10 or 12 gallons of White, and put therein a pinte of Damask-Roſe-water; then rowl it up and down, and lay it up<g ref="char:EOLhyphen"/>right; then take a ſprig of Clarey that is ſeeded, and let it ſteep 24 hours; then take it out, and it will cap very well.</p>
+               <p n="25">
+                  <pb n="13" facs="tcp:52763:11"/>25.<hi>If a Hogſhead of Claret hath loſt its Colour.</hi>
+               </p>
+               <p>TAke one gallon of Sloes and Da<g ref="char:EOLhyphen"/>maſons, or Black-Cherries, bruiſe them well and ſtrain them, and put the juyce into a Hogſhead of tawny Wine, and it will drink very well.</p>
+               <p n="26">26.<hi>How to mend the Colour of White<g ref="char:EOLhyphen"/>wine.</hi>
+               </p>
+               <p>TAke 3 or 4 gallons of Milk, or leſs, according as you think fit, or do find the Colour of the Wine decayed; put it into your Hogſhead; then rowl it well; and then open your Bung, and put in 3 or 4 ounces; then fill up your HOgſhead, and rowl it 4 or 5 times over, and lay it up, that you may rack it when it is fine.</p>
+               <p n="27">
+                  <pb n="14" facs="tcp:52763:12"/>27.<hi>How to mend a Piece of Canary, or a Butt of Malaga that is brown.</hi>
+               </p>
+               <p>TAke 5 or 6 gallons of Milk, if it be very brown; if not, take as much as you think fit, and over-draw your Butt or Pipe; then put in your Milk, and beat it a good while; and when it is well beaten, take 5 or 6 ounces of Roach-Allum, and put it therein; then give it ſome 30 or 40 ſtroaks; then fill up your Cask, and let it lye till it be fine; then rack it off from its white bottom, and rack it into a clear Cask, and burn a piece of Scent init; and then fill it up, and let it lye till it be fine, and it will ſpend very well.</p>
+               <p n="28">28.<hi>For to flower a Butt of Muskadine.</hi>
+               </p>
+               <p>TAke one grain of Musk, one ounce of Cloves, one ounce of Nut<g ref="char:EOLhyphen"/>megs, one of Aniſceds, and one ounce of Coriander-ſeeds, and two handfuls
+<pb n="15" facs="tcp:52763:12"/>of Orange and Lemon Pills well dried and beaten, and a grain of Long-Pep<g ref="char:EOLhyphen"/>per together; put it into a bag, and hang it in the Bung-hole for ſome 2 or 3 days together with 10 gallons of Baſtard.</p>
+               <p n="29">29.<hi>How to make Rheniſh-wine.</hi>
+               </p>
+               <p>TAke one handful of dried Lemon<g ref="char:EOLhyphen"/>peels, and put them into 10 or 12 gallons of White-wine, and put in one pint of Damask-Roſe-water; then rowl it up and down, and lay it upright, and open the Bung of it, and take a little branch of Clarey, and let it ſteep 24 hours; then take it out, and it will taſte very well.</p>
+               <p n="30">30.</p>
+               <p>A Butt of Malaga if it be full ga<g ref="char:EOLhyphen"/>ged 126 gallons, the Tun is 232 or 252 gallons, and every Se<g ref="char:EOLhyphen"/>ſtron is 4 gallons, and at 12<hi rend="sup">d</hi>. the gallon.</p>
+               <p n="31">
+                  <pb n="16" facs="tcp:52763:13"/>31.<hi>A Pearl for Malmoſey.</hi>
+               </p>
+               <p>AS you pearl your Muskadine, ſo you muſt your Maloſey, but uſe not the Whites of Eggs.</p>
+               <p n="32">32.<hi>A Pearl for Muskadine.</hi>
+               </p>
+               <p>WHen it comes to be fine, within 4 hours after take new-laid Eggs, beat them Shells and all, with two handfuls of Bay-Salt; put to the ſame a quart of good Sack which is old; a handful of white Sugar-candy beatch ſmall; then beat them all to<g ref="char:EOLhyphen"/>gether very well; then over-draw your Butt ſome 8 or 10 gallons; then beat your Butt an hour; then put in your Pearl; then beat him again gent<g ref="char:EOLhyphen"/>ly half an hour, ſtop him cloſe up, and in 24 hours broach him.</p>
+               <p n="33">
+                  <pb n="17" facs="tcp:52763:13"/>33.<hi>How to make tawny Baſtard white.</hi>
+               </p>
+               <p>IF it be full, draw out 10 or 12 gallons; then fill it near up with<g ref="char:EOLhyphen"/>in 10 gallons, with the Lags of Ro<g ref="char:EOLhyphen"/>thal and Gaſcoign Wines for Sack; and take 5 gallons of Milk, and 8 Whites of Eggs; a handful of Bay-Salt, and as much Whiting; beat them all together; then mingle them well with Milk, and put them into the Baſtard, and beat it well for half an hour; then fill him full with your Lags, and give him 8 or 9 ſtroaks, ſtop it cloſe, and within 3 days you may broach him.</p>
+               <p n="34">34.</p>
+               <p>IF red Wine be faint, draw it out into freſh Lees, and put into him 4 or 5 gallons of Allagant; then turn him twice in the Lees, and let him lye with the Bung upright 7 days before you broach him, and it will have a good colour and taſte.</p>
+               <p n="35">
+                  <pb n="18" facs="tcp:52763:14"/>35.<hi>A Pearl for Scent and Flavour for a Butt of Muskadine.</hi>
+               </p>
+               <p>TAke a quarter of a yard of Can<g ref="char:EOLhyphen"/>vas, and make a Bag of it; then take an ounce of Calamus Aromati<g ref="char:EOLhyphen"/>cus; of Floras 2 ounces; of Orras one ounce; of Coriander-ſeed as much; of Aniſeeds bruiſed and bea<g ref="char:EOLhyphen"/>ten: Put theſe into the Bag, and let it hang in the midſt of the Wine 3 days and nights; then take it out; after that 2 grains of Civet; as much Musk; a pint of Damask-Roſe-wa<g ref="char:EOLhyphen"/>ter; warm the Water bloud-warm, rub well the Musk with the back of a and ſo put it into the Butt, and ſtop it cloſe, and rowl him, but turn him not over, and it will be per<g ref="char:EOLhyphen"/>fect in 2 days.</p>
+               <p n="36">36.<hi>If White have an ill Taſte or Scent.</hi>
+               </p>
+               <p>HAlf draw him out; then take to either part 2 gallons of Mor<g ref="char:EOLhyphen"/>nings
+<pb n="19" facs="tcp:52763:14"/>Milk, or more, and a handful of Rice, and as much Bay-Salt; beat them together with a Paddle-ſtaff for half an hour; then fill up the Hogs<g ref="char:EOLhyphen"/>head, and rowl it well, and turn it over in the Lees, and broach him within two days.</p>
+               <p n="37">37.<hi>If Claret be faint and want colour.</hi>
+               </p>
+               <p>DRaw it off into a freſh Hogs<g ref="char:EOLhyphen"/>head and freſh Lees as can be gotten, and draw it out very cloſe<g ref="char:EOLhyphen"/>ly; then take 2 pennyworth of Turn<g ref="char:EOLhyphen"/>ſel, lay it in ſteep in 3 or 4 gallons of the ſame Wine for 3 hours; then rub it and all to waſh with your hands, till it colour your Wine deep<g ref="char:EOLhyphen"/>ly; then put it into the Hogſhead; then draw as much out and uſe ac<g ref="char:EOLhyphen"/>codingly, and ſo the 3<hi rend="sup">d</hi> or 4<hi rend="sup">th</hi> time rowl it half an hour, and lay it up ſtopp'd, and in 3 days broach it.</p>
+               <p n="38">
+                  <pb n="20" facs="tcp:52763:15"/>38.<hi>A pleaſant Scent for Red-wine.</hi>
+               </p>
+               <p>TAke 2 ounces of Brimſtone, ½ ounce of Calamus; mix them together in a pinte and half of Burrage-water; melt the Brimſtone in a Pan, and let the reſt be with it therein; dip it in ſo many cloaths as will take it up, and put the cloaths in your Hogs<g ref="char:EOLhyphen"/>head; then take out your Aſhes, and rack your Wine in; then put in it a pinte of Roſe-water, rowl it well half an hour, and it being cloſe ſtopt, let it lye 2 days, and this ſhall give it or any other Gaſcoign-wine, a plea<g ref="char:EOLhyphen"/>ſant ſcent or taſte.</p>
+               <p n="39">39.<hi>If a Butt of Sack be ſmall.</hi>
+               </p>
+               <p>TAke half a peck of Lime-ſtones well burned, put them in at the Bung-hole amongſt the Wine, then beat or roll it well together, and let it lie till it be fine, then rack it off into a clean Cask, and fill it full, and draw it off when you pleaſe.</p>
+               <p n="40">
+                  <pb n="21" facs="tcp:52763:15"/>40.<hi>If Wine at any time grow Long or Lowring.</hi>
+               </p>
+               <p>TAke 2 penniworth of Roach Allom and bruiſe it ſmall to powder: over-draw the Hogſhead four gallons, then ſtrow the powder therein, and beat it well half an hour; then fill it up and broach it within three days, and be ſure it take no vent.</p>
+               <p n="41">41.<hi>If Sack or White-wine have loſt its colour.</hi>
+               </p>
+               <p>TAke four gallons of Milk, let it ſtand three hours in a Tub; skim off the cream, &amp; overdraw your Hogſ<g ref="char:EOLhyphen"/>head 6 gallons: take the yelks of ſix Eggs beaten; put them into your milk, and beat them together, and put them into the Wine, and beat the Wine well, and ſtop it up cloſe, and in four days draw it.</p>
+               <p n="42">
+                  <pb n="22" facs="tcp:52763:16"/>42.<hi>How to mend a Butt of Sack, Ma<g ref="char:EOLhyphen"/>laga, or Pipe of Canary that pricks.</hi>
+               </p>
+               <p>TAke about 8 or 10 ounces of meer Chalk, beat it very well, and put it in ſteep in 4 or 5 gallons of Milk; put in about two pounds of powder'd Suggar according to the hardneſs of the Wine: let this lie in ſteep a day and a night; ſtir it together now and then, ſo as when you put in your Wine beat it reaſonably well before you put it in, then put it in as faſt as you can, and beat it luſtily for a quar<g ref="char:EOLhyphen"/>ter of an hour: lay it upright and it will take away the prickin of it and fine it.</p>
+               <trailer>The end of the Firſt Book.</trailer>
+            </div>
+            <div n="2" type="book">
+               <pb n="23" facs="tcp:52763:16"/>
+               <head>The Second Book.</head>
+               <p n="1">1.<hi>To correct the Rankneſs and Eagerneſs of Wines, as Sack and Malaga, or any other Sweet Wines.</hi>
+               </p>
+               <p>TAke 26 or 30 of the whiteſt Lime-ſtones, and ſtake them in a gallon of the beſt wine, then add more wine, and ſtir them together in a Half-Tub with a Paddle<g ref="char:EOLhyphen"/>ſtaff: pour this mixture into the Hogſhead, and again uſe the Paddle<g ref="char:EOLhyphen"/>ſtaff: Let the Wine ſettle, and then rack it off from the white bottom.</p>
+               <p n="2">2.<hi>Againſt the pricking of French-wines.</hi>
+               </p>
+               <p>TAke of the powder of Tyle one pound, Roch-allom half a pound;
+<pb n="24" facs="tcp:52763:17"/>mix them and beat them well toge<g ref="char:EOLhyphen"/>ther with ſome of the Wine, then put them into your Hogſhead as the former.</p>
+               <p n="3">3.<hi>When Rheniſh-wines prick.</hi>
+               </p>
+               <p>RAck them into a clean and ſtrongly ſcented Cask or Phatt; add then to the Wine 8 or 10 gallons of clarified Honey, with one gallon or 2 of skum'd Milk; beat them all together, and let them ſettle.</p>
+               <p n="4">4.<hi>For Claret that hath loſt its briskneſs.</hi>
+               </p>
+               <p>RAck it upon a good Lee of red Wine, and put into it a gallon of the juice of Sloes or Bullace; which after a little fomentation and reſt makes Wine drink brisk and rough.</p>
+               <p n="5">5.<hi>Another.</hi>
+               </p>
+               <p>THe like may be done with Vir<g ref="char:EOLhyphen"/>ginian Pears, otherwiſe called
+<pb n="25" facs="tcp:52763:17"/>
+                  <hi>Metagane Sunaux,</hi> which hath a deep ſanguine colour, and a rough taſte.</p>
+               <p n="6">6.<hi>To meliorate the taſte of hungry and too eager White-wines.</hi>
+               </p>
+               <p>DRaw off 3 or 4 gallons of the Wine, and infuſe therein as many pounds of Malaga-Raiſins, ſto<g ref="char:EOLhyphen"/>ned and bruiſed in a ſtone-Mortar, till the Wine hath ſufficiently imbi<g ref="char:EOLhyphen"/>bed their ſweetneſs and tincture, which it will do in a days time; then run it through an Hippocras-bag, and put it into a freſh Cask well ſcented, together with the whole remainder of the Wine in the Hogſhead, and ſo leave it to fine.</p>
+               <p n="7">7.<hi>To help ſtinking Wines.</hi>
+               </p>
+               <p>THe beſt way is to rack them from their old and corrupt Lee; be<g ref="char:EOLhyphen"/>ſides you muſt give them a fragrant ſmell or flavour, by hanging in them a little bag of Spices, ſuch as Ginger,
+<pb n="26" facs="tcp:52763:18"/>Zadoary, Cloves, Cinamon, Orris<g ref="char:EOLhyphen"/>roots, Cubebs, grains of Paradice, Spicknard: Or you may uſe theſe on<g ref="char:EOLhyphen"/>ly; A few-Cinamon-canes hung in it; ſome uſe Elder-flowers, and tops of Lavender.</p>
+               <p n="8">8.<hi>For Claret that decayeth.</hi>
+               </p>
+               <p>RAck it upon a new and freſh Lee, and the ſhaving of Fir<g ref="char:EOLhyphen"/>wood, which will bring it to its body again.</p>
+               <p n="9">9.<hi>How to make Baſtard.</hi>
+               </p>
+               <p>TAke 4 gallons of White, 3 gallons of Canary that is old, 5 pound of Baſtard-Syrup; beat them well together, and put them into a clean Runlet well ſcented, and give it time to fine.</p>
+               <p n="10">
+                  <pb n="27" facs="tcp:52763:18"/>10.<hi>How to make Rheniſh.</hi>
+               </p>
+               <p>TAke a Hogſhead of <hi>Rochel</hi>-Cogni<g ref="char:EOLhyphen"/>acks, or <hi>Nants</hi>-White-wine; rack it into a freſh Cask ſtrongly ſcented; then give your white Pearl; put into it 8 or 10 gallons of clarified Honey, and 4 pound of coarſe Sugar; beat it well, and leave it to clarifie; then to give it the flavour, add the Decoctio of Clary-ſeeds or Gallitri<g ref="char:EOLhyphen"/>cum, and that will give it the right taſte.</p>
+               <p n="11">11.<hi>How to make Muskadel.</hi>
+               </p>
+               <p>TAke a convenient quantity of Roſe-water, of Musk 2 ounces, of Calamus Aromaticus one ounce, of Coriander-ſeeds beaten half an ounce; and whilſt this Infuſion is yet warm, put it into a Runlet of old Sack or Malmoſey.</p>
+               <p n="12">
+                  <pb n="28" facs="tcp:52763:19"/>12.<hi>If an Hagſhead of Claret be ſcund, and hath loſt its colour.</hi>
+               </p>
+               <p>ADd to it Red-wine, Tent or Al<g ref="char:EOLhyphen"/>legant, or by an Infuſion of Turnſole, as much as you think con<g ref="char:EOLhyphen"/>venient, infuſed in 2 or 3 gallons of Wine; and then put it into the Veſ<g ref="char:EOLhyphen"/>ſel to be well ſtopp'd, rowl it a quar<g ref="char:EOLhyphen"/>ter of an hour; this Infuſion is twice or thrice repeated ſometimes, accor<g ref="char:EOLhyphen"/>ding as more colour is to be added to the Wine; ſome 3 hours infuſion of the Turnſole will be ſufficient, but then it muſt be rubbed and wringed. What Turnſole is, ſee the Notes or the Arts of Glaſs.</p>
+               <p n="13">13.<hi>White-wines that come over ſound, and have loſt their colour, and turn brown.</hi>
+               </p>
+               <p>TAke of Alablaſter-powder 3 or 4 ounces, and draw over the Hogs<g ref="char:EOLhyphen"/>head 3 or 4 gallons; then put of
+<pb n="29" facs="tcp:52763:19"/>this powder into the Bung as much as you think fit, and beat it up with a Staff, and then fill it up to full; the more the Wine is ſtirred up, the ſiner it will become upon the Lee.</p>
+               <p n="14">14.<hi>To colour Sack white.</hi>
+               </p>
+               <p>TAke of white Starch 2 pound, of Milk 2 gallons, boyl them toge<g ref="char:EOLhyphen"/>ther 2 hours; it being cold, beat it well with a handful of Salt therein, the Salt muſt be white common Salt; let your Wine be racked, and then put it into it; the Wine being rack'd into a freſh Butt or Pipe, beat it well together with your Paddle-ſtaff, and it will make the Wine pure and fine.</p>
+               <p n="15">15.<hi>Of Rheniſh-wine.</hi>
+               </p>
+               <p>THe firſt Buds of <hi>Ribes nigra</hi> infu<g ref="char:EOLhyphen"/>ſed in Wines, eſpecially of Rhe<g ref="char:EOLhyphen"/>niſh-wine, makes it diverſick, and more fragrant in ſmell and taſte, and ſo doth Clary: The inconvenience is,
+<pb n="30" facs="tcp:52763:20"/>that the Wine becomes more heady; the remedy of which is Elder-flow<g ref="char:EOLhyphen"/>ers added to Clary, which alſo bet<g ref="char:EOLhyphen"/>ters the fragrancy thereof, as it is manifeſt in Elder-vinegar; but theſe Flowers are apt to make the Wine ropy.</p>
+               <p n="16">16.<hi>To help Malagaes, or any other</hi> Spaniſh <hi>Wine, that hath loſt their colour, or turned brown.</hi>
+               </p>
+               <p>TAke the powder of Orras-roots, and Salt-peter, of each 4 ounces, he whites of 8 Eggs, to which add as much Salt as will make Brine; put this mixture into the Wine, and mix them with a Paddle-ſtaff.</p>
+               <p n="17">17.<hi>To mend the taſte and ſmell of Malagae.</hi>
+               </p>
+               <p>TAke of the beſt Almonds 4 pound, make with them and a ſufficient quantity of the Wine to be cured, an Emulſion; take then the whites of
+<pb n="31" facs="tcp:52763:20"/>twelve Eggs, and a handful of Salt; put all into the Pipe or Butt, and beat it well with a Paddle-ſtaff.</p>
+               <p n="18">18.<hi>To help Claret that is tawny or muddy.</hi>
+               </p>
+               <p>TAke of Rain-water one quart, 8 Eggs, a handful of Salt; beat them well, and let them ſtand ſix hours before you put them into the Cask; then uſe the Paddle-ſtaff, and it will come to it ſelf in 3 days.</p>
+               <p n="19">19.<hi>To mend the taſte and ſmell of</hi> French <hi>Wines or Rheniſh, that are foul.</hi>
+               </p>
+               <p>TAke a gallon of the Wine, a pound of Honey, a handful of Elder<g ref="char:EOLhyphen"/>flowers, Orras-powder one ounce, a Nutmeg, and a few Cloves; boyl them in a ſufficient quantity of the Wine to be cured, of the conſumpti<g ref="char:EOLhyphen"/>on of half; when it is cold, ſtrain it, and beat it with a Stick; put a little
+<pb n="32" facs="tcp:52763:21"/>Salt, if the Wine be ſweet enough; add of ſpirits of Wine one pound to a Hogſhead, and give the Cask a ſtrong ſcent; ſpirit of Wine makes any Wine ſtrongly brisk, and fines with<g ref="char:EOLhyphen"/>out any further mixture.</p>
+               <p n="20">20.<hi>A Lee of the Aſhes.</hi>
+               </p>
+               <p>OF Vine-branches one ounce; a quart to a Pipe being beaten in<g ref="char:EOLhyphen"/>to the Wine cures the ropineſs of it, and the ſame infallbily doth the Lee of Oaken aſhes; for <hi>Spaniſh</hi> ropy Wines, rack it off from its Lee into a new ſcented Cask; take of Allom one pound, of Orras-roots powdered half a pound; beat them well in<g ref="char:EOLhyphen"/>to the Wine with a Paddle-ſtaff; add fine and well dried Sand, put it warm to the Wine; if the Wine be<g ref="char:EOLhyphen"/>ſides prove brown, add 3 pottles of Milk to a Pipe; otherwiſe it cures ropy Wines, uſed before they begin to fret.</p>
+               <p n="21">
+                  <pb n="33" facs="tcp:52763:21"/>21.<hi>To order Rheniſh-wines.</hi>
+               </p>
+               <p>WHen fretting commonly in <hi>June,</hi> when Wines begin to ferment and grow ſick, then have a ſpecial care of diſturbing them, either by removing, filling of Veſſels, of giving Vent, only open the Bung, which cover with a Salte, and as of<g ref="char:EOLhyphen"/>ten as the Slate is foul, cleanſe it and the Bung from filth; and when the Fermentation is paſt, which you ſhall know by applying your ear to the Veſſel, then give it reſt 10 or 12 days, thta the groſs Lees may ſettle; then rack it into a freſh-ſcented Cask.</p>
+               <p n="22">22.<hi>To mend and preſerve the Colour of Clarets.</hi>
+               </p>
+               <p>TAke red Beets-roots (q.s.) ſcrape them clean and cut them into ſmall pieces; then boyl them in a quart of the ſame Wine, till a third part be conſumed; skim it well, and
+<pb n="34" facs="tcp:52763:22"/>when it is cold, take what is clear of it (or Decant) and uſe the Paddle-ſtaff.</p>
+               <p n="23">23.<hi>Another for the ſame.</hi>
+               </p>
+               <p>TAke of the Wine and Honey of each 2 pound, of Rain-water a pottle, 12 Beet-roots, 4. or 5 hand<g ref="char:EOLhyphen"/>fuls of ripe Mulberries; boyl them to half, and when it's cool, decant with the uſe of the Paddle-ſtaff.</p>
+               <p n="24">24.<hi>To meliorate vicious Wines, and eſpecially</hi> French, <hi>both in ſmell and taſte.</hi>
+               </p>
+               <p>TAke of the beſt Honey one pint, of Rain-water 2 parts, and the 3<hi rend="sup">d</hi> part of Wine old, of the ſame kind; boyl them on a gentle fire to a 3<hi rend="sup">d</hi> part, skimming them often with a Skimmer, and dip the Skimmer in<g ref="char:EOLhyphen"/>to a Pail of clean water every time af<g ref="char:EOLhyphen"/>ter it hath been skimmed, once to rince the Skimmer; then put this
+<pb n="35" facs="tcp:52763:22"/>mixture into a Veſſel of fit capacity, and let it ſtand unbunged till it cool: Some to better this, put in a bag of Spices this mixture, called by the <hi>Dutch, Soe,</hi> will ſerve to fine Wines new or old; it will amend the hard taſte of Wines, and in each putting of a gallon thereof into a Hogſhead, and uſing the Paddle-ſtaff, let it reſt 5 or 6 days at leaſt; but if mild enough, add white Muſtard ſeed bruiſed.</p>
+               <p n="25">25.<hi>To mend and preſerve the Lees of Clarets.</hi>
+               </p>
+               <p>TAke to a Teirce 10 Eggs, make a ſmall hole in the top of the ſhells; then put them into the Wine, and all will be conſumed.</p>
+               <p n="26">26.<hi>To prevent Scouring of</hi> French <hi>Wines.</hi>
+               </p>
+               <p>TAke grins of Paradice (q.s.) beat them in a Pan, and hang them
+<pb n="36" facs="tcp:52763:23"/>or put them looſe in a Veſſel; ſome uſe Lavender-tops.</p>
+               <p n="27">27.<hi>To help</hi> French<hi>-Wines that are ſower.</hi>
+               </p>
+               <p>TAke 4 ounces of the beſt Wheat boyled in fair water till it break, and then when it's cold, put it into a Phatt in a bag, and uſe the Paddle-ſtaff; otherwiſe take 5 or 6 Cina<g ref="char:EOLhyphen"/>mon-canes, bung them well.</p>
+               <p n="28">28.<hi>To help</hi> Spaniſh<hi>-Wines that are ſower.</hi>
+               </p>
+               <p>FIrſt rack the Wines into a clear Cask, and fill it up with 2 or 3 gallons of Water; after 3 or 4 days it muſt be rack'd and filled up again with Rain-water; if the firſt doth not do, ſome uſe Lome or Plaſtering: If theſe Ingredients make the Wine bitter, correct the fault with Nut<g ref="char:EOLhyphen"/>megs and Cloves.</p>
+               <p n="29">
+                  <pb n="37" facs="tcp:52763:23"/>29.<hi>To help ſtinking Wines.</hi>
+               </p>
+               <p>TAke Ginger half an ounce, Zedo<g ref="char:EOLhyphen"/>ary 2 drams; pound and boyl them in a pottle of good Wine, which put ſcalding hot into the Phatt; bung it up, and let it lye the ſpace of two days; <hi>Diambrae</hi> and <hi>Diamoſne dulce</hi> do the ſame, and ſo Nutmegs and Cloves, which alſo give a kind of Racineſs.</p>
+               <p n="30">30.<hi>To help Wine that hath an ill ſa<g ref="char:EOLhyphen"/>vour from Lees.</hi>
+               </p>
+               <p>RAck it into a clean Cask, and if it be White or Claret, give it a freſh Lee of the ſame Wine; then of Cloves, Ginger and Cinamon 2 ounces, Orras-roots 4 ounces; powder them groſly, hang them in a Bag, and taſte the Wine once in three days, and when 'tis amended, take out the Bag.</p>
+               <p n="31">
+                  <pb n="38" facs="tcp:52763:24"/>31.<hi>Or as ſome do it.</hi>
+               </p>
+               <p>TAke of Cloves hafl a pound, Ma<g ref="char:EOLhyphen"/>ſtick, Ginger, Cubebs, of each 2 ounces, Spicknard 2 drams, Orras-roots half a pound; make thereof a fine Powder, and put it looſe in the Phatt, and uſe the Paddle-ſtaff, then make a good fire before it.</p>
+               <p n="32">32.<hi>The beſt time to rack Wines,</hi>
+               </p>
+               <p>IS at the Decreaſe of the Moon, and when the Wine is free from fret<g ref="char:EOLhyphen"/>ting, the Wind being at North-eaſt or North-weſt, and not at South, the Stern free from Thundrig and Lightning.</p>
+               <p n="33">33.<hi>For a Scent for</hi> French <hi>and <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Wines.</hi>
+               </p>
+               <p>TAke Orras-roots, Maſtick and Brimſtone, of each 4 ounces, of Cloves 2 ounces, ordering <hi>ut ſupra;</hi>
+                  <pb n="39" facs="tcp:52763:24"/>in making Wines this will ſerve for all Wines, adding if you pleaſe, Nut<g ref="char:EOLhyphen"/>megs, Ginger, Cinamon, and other Spices; double the quantity of Or<g ref="char:EOLhyphen"/>ras-roots for the <hi>Spaniſh</hi> Wines.</p>
+               <p n="34">34.<hi>To help Malagaes that will not fine.</hi>
+               </p>
+               <p>TAke crude Tartar-powder ſifted and dried 2 pounds, mix it with the whites of 6 Eggs dried to a pow<g ref="char:EOLhyphen"/>der; then ſift them again; then overdraw the Pipes as much as will ſerve to mix this powder, and fill the Pipe therewith, beating it with a ſtaff as before, and the Wine will be fine in 10 days.</p>
+               <p n="35">35.<hi>To fine</hi> French <hi>Wines.</hi>
+               </p>
+               <p>HAng a piece of Scent in the Cask, and when 'tis burn'd out, put in a pint of the beſt ſpirit of Wine, and ſtir it about; ſome add a little Salt well dried; this fines Wine in 24 hours.</p>
+               <p n="36">
+                  <pb n="40" facs="tcp:52763:25"/>36.<hi>To keep Muſt a year.</hi>
+               </p>
+               <p>TAke Muſt, put it into a Cask pitch'd within and without half full, ſtop the Bung cloſe with Mor<g ref="char:EOLhyphen"/>tar; others ſew the Cask in Skins, and link it for 30 days in a Well or River; or elſe a Garland of <hi>Pulvium Montanium</hi> to hang in the Veſſel; or elſe rub the inſide with Cheeſe: Theſe preſerve the Rheniſh Muſt, as the Scholiaſt <hi>Ondodorus</hi> in <hi>Dutch.</hi>
+               </p>
+               <p n="37">37.<hi>To keep Wines from turning flat, faint or brown.</hi>
+               </p>
+               <p>ALlom ut into a Hogs Bladder keeps Wine from turning flat, faint or brown, and beaten with whites of Eggs removes its Ropineſs.</p>
+               <p n="38">38.</p>
+               <p>WInes recovered with Spirits of Wine, Raiſins and Sugar, or
+<pb n="41" facs="tcp:52763:25"/>Moloſſes; and Sacks, by drawing them on freſh Lees.</p>
+               <p n="39">39.<hi>How to make Muskadine.</hi>
+               </p>
+               <p>TAke 30 gallons of Soot, which is Wine boyled to a conſumption, of half to a Butt of Wine, or the Lees and droppings boyled and clarified; its flavour is made of Coriander-ſeeds prepared, and the ſhavings of Cyprus-trees: Some inſtead of Soot make of Sugar Moloſſes and Honey, or mix them with the Soot.</p>
+               <p n="40">40.<hi>To make Hippocras.</hi>
+               </p>
+               <p>TAke of Cardamons, Carpobaſa<g ref="char:EOLhyphen"/>mus, of each half an ounce, Co<g ref="char:EOLhyphen"/>riander-ſeeds prepared, Nutmegs, Ginger, of each 2 ounces, Cloves 2 drams; bruiſe and infuſe them 48 hours in Rerer and White-wine, of each a gallon; after ſtirring of them, add thereto 3 pints of Milk, ſtrain it through an Hippocras-bag, and put
+<pb n="42" facs="tcp:52763:26"/>thereto a pound of Sugar-candy to ſweeten it.</p>
+               <p n="41">41.<hi>For the boyling of Canary or Sacks.</hi>
+               </p>
+               <p>DRaw off 4 or 5 gallons, then put to it 21 gallons of Milk, from which the Cream hath been skimmed; beat them till they be throughly commixed, adding one penniworth of Roach-Allom dried in a Fire-ſhovel and powdred, and as much of white Salt: After this take for the boyling of Canary or Sack, the whites of 10 or 12 Eggs, and a handful of Bay-ſalt; having beaten them together in a Tray, put them alſo in the Wine, filling up the Wine in the Pipe again, and letting the Wine ſtand 2 or 3 days, in which time the Wine will recover to be bright to the eye and fine, and quick in taſte; but be ſure you draw it off from that bottom ſoon, and ſpend it as ſoon as you can.</p>
+               <p n="42">
+                  <pb n="43" facs="tcp:52763:26"/>42.<hi>For Claret that frets, and hath a flying Lee.</hi>
+               </p>
+               <p>TAke 21 pound of the powder of Pebble-ſtones baked in an Oven, the whites of 10 or 12 Eggs, and a handful of Bay-ſalt; having beaten them well together in 2 gallons of the ſame Whine, then mix them with that in the Cask, and after 2 or 3 days draw off the Wine from the bot<g ref="char:EOLhyphen"/>tom: The ſame Pearl ſerves for White-wine upon the fret, by the turbulency and reſting of their Lee.</p>
+               <p n="43">43.<hi>For Rheniſh that frets.</hi>
+               </p>
+               <p>TO which 'tis moſt prone after <hi>Mid<g ref="char:EOLhyphen"/>ſummer</hi> as aforeſaid, They ſel<g ref="char:EOLhyphen"/>dom uſe any other Art but giving of it Vent and Covering; then open the Bung with a Tyle or Slate, but be ſure to wipe the filth off the Slate when there is any, and when it hath done fretting, let it reſt for a week;
+<pb n="44" facs="tcp:52763:27"/>then rack it off into a new ſcented Cask, and this will cure it.</p>
+               <p n="44">44.<hi>For</hi> Spaniſ <hi>Wine diſturbed by a flying Lee.</hi>
+               </p>
+               <p>TAke of whites of Eggs, Bay-ſalt, Conduit-water and Milk; beat them well together in a convenient Veſſel; then pour them into the Pipe of Wine, having drawn firſt out of the Pipe a gallon of Wine or two; blow off the Froth very clear; there<g ref="char:EOLhyphen"/>by the Tumult will in 2 or 3 days be compoſed, the Liquor confined, and the Wine drink pleaſant, but will not continue ſo long: Therefore I counſel to rack it off from the milky bottom after a weeks ſettlement, leſt otherwiſe it drink foul, and change colour, and this will do.</p>
+               <p n="45">
+                  <pb n="45" facs="tcp:52763:27"/>45.<hi>For</hi> Spaniſh <hi>or <hi>Auſtrian</hi> Wines, grown yellow or browniſh.</hi>
+               </p>
+               <p>TAke as much Milk as you think fit, ſometimes alone and ſomtimes with Izinglaſs well diſſolved, and ſometimes with white Starch, by which the Sulphur is forced to the bottom of the Veſſel: The ſame ef<g ref="char:EOLhyphen"/>fects Flower-deluce-roots, and Salt<g ref="char:EOLhyphen"/>peter 4 or 5 ounces, of whites of Eggs 8 or 10. and a convenient quan<g ref="char:EOLhyphen"/>tity of common Salt mix'd and bea<g ref="char:EOLhyphen"/>ten in Wine.</p>
+               <p n="46">46.<hi>To correct Wines that are lumpiſh, foul and ropy.</hi>
+               </p>
+               <p>TAke Powder of burnt-Allom, Lime, Chalk, Plaſter; for <hi>Spaniſh,</hi> white calamed Marble, Bay-ſalt, and other the like Bodies, which cauſe precipitation of the groſs and uſed parts of the Wine there afloat.</p>
+               <p n="47">
+                  <pb n="46" facs="tcp:52763:28"/>47.<hi>An Example to attenuate</hi> Spaniſh <hi>Wines that are foul and lumphiſh.</hi>
+               </p>
+               <p>HAving racked them into a new ſcented Cask, make a Pearl of burnt Allom, Salt and Conduit-wa<g ref="char:EOLhyphen"/>ter; then add thereunto the Powder of Bean-flower or Rice a quart, and if they be brown and duskiſh Milk, beat all theſe together with the Wine, blow off the froth, and cover the Bung with a clean Tyle; after a few days rack the Wine again, and put it into a Cask well ſcented: Here ſome perhaps will not underſtand well what is meant by ſcenting of a Cask; for this purpoſe I explain it as fol<g ref="char:EOLhyphen"/>lows.</p>
+               <p n="48">48.</p>
+               <p>TAke a Brimſtone 4 ounces, burnt Allom one ounce, Aqua-vitae 2 ounces; put them into an earthen Pan or Pipkin, and hold them over a
+<pb n="47" facs="tcp:52763:28"/>Chafing-diſh of glowing Coals till the Brimſtone runs; then dip therein a piece of new Canvas, and inſtantly ſprinkle thereon the powder of Nut<g ref="char:EOLhyphen"/>megs, Cloves, Coriander-ſeeds and Aniſeeds. And this is the Scent.</p>
+               <p n="49">49.</p>
+               <p>ONe this is: Firſt, You muſt give it a Pearl, then draw it from the Lees, after the clarification by that Pearl; this done, infuſe 2 pound of Turnſole in good Sack all night, and the next day putting ſtrained Infuſion in the Wine in the Hogſhead with a Spring-Funnel, leave it to fine, and after draw it for excellent Wine.</p>
+               <p n="50">50.<hi>Another.</hi>
+               </p>
+               <p>MAke the Lees of the Aſhes of Vine-branches, or of Oak-leaves, and pour t out into the Wine, and after ſtirring leave it to ſettle;
+<pb n="48" facs="tcp:52763:29"/>put a quart of Lee to a pint of Wine.</p>
+               <p n="51">51.<hi>To mend Claret decayed in Colour.</hi>
+               </p>
+               <p>FIrſt rack the Wine upon a freſh Lee, or Aligant, or red <hi>Bourde<g ref="char:EOLhyphen"/>aux</hi>-Wine; then take 3 pound of Turnſole, ſteep it all night in 2 or 3 gallons of the Wine, and having ſtrai<g ref="char:EOLhyphen"/>ned the Infuſion in a Bag, pour the tincture into the Hogſhead; ſome<g ref="char:EOLhyphen"/>times they ſuffer it firſt to fine of it ſelf in a Runlet, and cover the Bung with a Tyle, and ſo let it ſtand for 2 or 3 days, in which time the Wine uſually becomes well-coloured and bright, ſome uſe only the tincture of Turnſole.</p>
+               <p n="52">52.</p>
+               <p>YOu may take for the ſame pur<g ref="char:EOLhyphen"/>poſe a buſhel of Elder-berries, pick them from their ſtalks, bruiſe them, and put them and the ſtrained
+<pb n="49" facs="tcp:52763:29"/>juyce into the Hogſhead of diſcolour<g ref="char:EOLhyphen"/>ed Claret, to make it drink brisk and bright.</p>
+               <p n="53">53.</p>
+               <p>IF the Claret be not ſound and good, overdraw 3 or 4 gallons, then repleniſh the Veſſel with as much good Wine red, and rowl him upon his bed, leaving him reverſed all night, next morning turn the Bung uppermoſt, which being ſtopp'd, leave the Wine to fine: Obſerve in theſe Cauſes, to ſet ſuch newly re<g ref="char:EOLhyphen"/>covered Wines abroach the very next day after fined, and draw them for ſale ſpeedily.</p>
+               <trailer>The End of the Second Book.</trailer>
+            </div>
+            <div n="3" type="book">
+               <pb n="50" facs="tcp:52763:30"/>
+               <head>The Third Book.</head>
+               <p n="1">1.<hi>For faint Sack.</hi>
+               </p>
+               <p>BEat it with Soot, and whites and yelks of Eggs.</p>
+               <p n="2">2.<hi>For a Butt of Malaga that boyls.</hi>
+               </p>
+               <p>TAke a pound of Roach-Allom, boyl it in a Pan of Iron, take off the skim, and beat it together with 6 Eggs and 13 gallons of Milk, beat it well in the Butt or Pipe together.</p>
+               <p n="3">3.<hi>For a Butt of Sack that pricks.</hi>
+               </p>
+               <p>TAke 3 quarts of Bean-flower, put ſome of the ſame Wine in<g ref="char:EOLhyphen"/>to it, beat it well for fear of clog<g ref="char:EOLhyphen"/>ging, put it in the Butt, and beat it 2 hours, then fill it again, and it will keep it.</p>
+               <p n="4">
+                  <pb n="51" facs="tcp:52763:30"/>4.<hi>For Sack that is faint and tawny, and will not fine.</hi>
+               </p>
+               <p>BAck them into a clean Cask, give them a ſcent of Aqua-vi<g ref="char:EOLhyphen"/>tae, put at the leaſt 2 penniworth in the Butt, put in 3 or 4 gallons of Milk, beat it for half an hour, make a Pearl of 10 whites of Eggs, Bay<g ref="char:EOLhyphen"/>ſalt and Conduit-water, beat it again, and fill it full of Wine, and blow off the froth; then lay a Tyle on the Bung, and put half a pint of Aqua-vitae in it.</p>
+               <p n="5">5.<hi>For Sack that is hagar.</hi>
+               </p>
+               <p>Take 3 or 4 Lime-ſtones that are white, put them into a Can, and pour a pottle of the ſame Wine over them, let them ſtand 3 or 4 hours till they are like Flower; then put 2 or 3 gallons of Wine more of the ſame, ſtir it well till it be like Milk; then put it into your Butt, let
+<pb n="52" facs="tcp:52763:31"/>it be half an hour; then taſte it; if the pricking be not gone, put more Lime to it; when you find the prick<g ref="char:EOLhyphen"/>ing gone, then take 3 gallons of Milk, the whites of 3 Eggs, ſome Bay-ſalt, a little Conduit-water, and half a pound of burnt Allom beaten toge<g ref="char:EOLhyphen"/>ther, and in a ſhort ſpace it ſhall be perfect white, and fine without pricking.</p>
+               <p n="6">6.<hi>How to make a gallon of Hippocras.</hi>
+               </p>
+               <p>TAke 4 gallons of White-wine, 4 pound of powder'd Sugar, 5 ounces of Cinamon, half an ounce of Cloves, 4 ounces of Ginger, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> penniworth of Long Pepper, 2 penni<g ref="char:EOLhyphen"/>worth of Coriander-ſeed; bruife them, then ſteep them in the Wire, and let it be cloſe covered, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quart of the beſt Sack, put them i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſtir them well together; th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> run it very well 4 times through <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bag till you ſee it fine, give your Ve<g ref="char:EOLhyphen"/>ſel a ſcent, and put it therein.</p>
+               <p n="7">
+                  <pb n="53" facs="tcp:52763:31"/>7.<hi>To make Baſtard White.</hi>
+               </p>
+               <p>PUt 4 or 5 gallons of Milk into your Butt or Pipe, beat it well, and give it a Pearl of 10 whites of Eggs, and it will fall fine.</p>
+               <p n="8">8.<hi>To make a Butt of Muskadine.</hi>
+               </p>
+               <p>TAke the Lags of all ſorts, and put them into a Muskadine-Butt, and be ſure your Lags do not prick; put thereto one or two gallons of Soot, beat it up and ſo let it lye; but if you want Soot, the Syrup of Baſtard is as good or better; four pound will ſerve to a Butt.</p>
+               <p n="9">9.<hi>For Claret that hath loſt his Colour.</hi>
+               </p>
+               <p>FIll it up with Red-wine, and rowl it well, and lay it upon the Bung all night, lay Gravel upon it in the morning.</p>
+               <p n="10">
+                  <pb n="54" facs="tcp:52763:32"/>10.<hi>For White-wine that is lumpiſh and lowring.</hi>
+               </p>
+               <p>TAke a pound of Roach-Allom, burn it and beat it to powder, and the whites of 6 Eggs; beat them and the Allom in a gallon of the ſame Wine, with a handful of Bay-ſalt; it will be fine by morning.</p>
+               <p n="11">11.<hi>A Flavour for a Pipe of Canary.</hi>
+               </p>
+               <p>TAke 10 ounces of Torſh, 10 oun<g ref="char:EOLhyphen"/>ces of Lymon, 10 ounces of Coriander-ſeeds, let them be beaten very ſmall, and put into a little Bag; then take a little Civit-water, and put it into a little Fruit-diſh on a Chafing-diſh of Coals, and make the Water lukewarm; then take your Bag, and dip it in till it hath drank up all the Water; hang it into your Pipe 3 foot, and when you think by your taſte it's enough, take it out, and it will ſerve for another.</p>
+               <p n="12">
+                  <pb n="55" facs="tcp:52763:32"/>12.<hi>To make an excellent Scent.</hi>
+               </p>
+               <p>TAke 4 ounces of Brimſtone, a little Allom, a ſpoonful of Aqua-vitae, mix them together; when you have done, take a new piece of Canvas and dip therein, and have in readineſs the powder of Antugus, 8 Cloves, 2 Ra<g ref="char:EOLhyphen"/>ces of Ginger, Orange-peel, and a little Coriander-ſeeds, well beaten together; then caſt them upon the Canvas while it is warm, ſo keep it in a dry place.</p>
+               <p n="13">13.<hi>The beſt time to taſte Wines.</hi>
+               </p>
+               <p>WHen the Wind is Eaſt-ward; for when the Eaſt-winds blow, the Wines begin to move themſelves, ſhewing what they are in goodneſs or badneſs.</p>
+               <p n="14">
+                  <pb n="56" facs="tcp:52763:33"/>14.<hi>For</hi> Spaniſh<hi>-Wine that will not fine.</hi>
+               </p>
+               <p>TAke half a peck of <hi>Callis Tauta,</hi> and put it into the Veſſel, let it be well beaten together; let it ſtand then and it will be fine.</p>
+               <p n="15">15.<hi>Another for the ſame.</hi>
+               </p>
+               <p>TAke 12 Eggs new laid, and a pint of Conduit-water, and a hand<g ref="char:EOLhyphen"/>ful of Bay-ſalt, beat them well toge<g ref="char:EOLhyphen"/>ther, and put them into your Veſſel; then beat them well again and it will fine; but let not the Veſſel be unfil<g ref="char:EOLhyphen"/>led.</p>
+               <p n="16">16.<hi>For Whiting of a Butt of Sack.</hi>
+               </p>
+               <p>TAke 5 or 6 gallons of Milk, four handfuls of Bay-ſalt, draw ſome of the ſame Wine, and put them into the Butt together one hour; and when the Lees are fallen, rack it, otherwiſe it will fret and boyl.</p>
+               <p n="17">
+                  <pb n="57" facs="tcp:52763:33"/>17.<hi>For high-Countrey Wines.</hi>
+               </p>
+               <p>RAck them off their groſs Lees within a week after they are fallen; and if they are brown, put a gallon of Milk into your Hogſhead, and a good ſcent; let it be always filled, and your Wine will keep the better.</p>
+               <p n="18">18.<hi>For White-wines that fret.</hi>
+               </p>
+               <p>DRaw 6 gallons, and take a handful of Bay-ſalt and a gal<g ref="char:EOLhyphen"/>lon of Milk, a handful of Flower and the whites of 6 Eggs; then beat theſe very well together, and give it a good ſcent; put theſe into the Veſſel, and rack it at 4 or 5 days end.</p>
+               <p n="19">19.<hi>For</hi> Spaniſh<hi>-Wines that prick.</hi>
+               </p>
+               <p>TAke a handful of Roſemary at the Bung-hole of your Veſſel, bruiſe it before you put it in, and let it hang
+<pb n="58" facs="tcp:52763:34"/>in the Wine till it be without prick<g ref="char:EOLhyphen"/>ing.</p>
+               <p n="20">20.<hi>to make Malaga for a need.</hi>
+               </p>
+               <p>TAke a Hogſhead of green Sherry, and 3 pound of white-Candy Syrup; beat theſe in the Wine, give it a Pearl, and put it into your Veſ<g ref="char:EOLhyphen"/>ſel, and draw it for good Malaga.</p>
+               <p n="21">21.<hi>For Sack that hath loſt its Colour, or is muſty.</hi>
+               </p>
+               <p>TAke a quart of Barley-meal, the whites of 20 Eggs, half an ounce of Cloves well beaten, and a pottle of the ſame Wine; beat them and put them into your Wines, ſo let it reſt with Vent, and it will be pur<g ref="char:EOLhyphen"/>ſued.</p>
+               <p n="22">22.<hi>To preſerve Malmſie.</hi>
+               </p>
+               <p>IF it fade, put into the Veſſel 20 ounces of Moſſel; then rowl your
+<pb n="59" facs="tcp:52763:34"/>Veſſel, and let it <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Vent, and ſo it ſhall <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> good to the end.</p>
+               <p n="23">23.<hi>For a Pipe of Sack that is long <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>TAke a pound of Roach-Allom, beat it well, and mix it with ſome of the Wine; then put it into the Butt, and beat it well, and when it is fine, rack it, and this will help it.</p>
+               <p n="24">24.<hi>To help the boyling of</hi> Gaſcoign<hi>-Wine.</hi>
+               </p>
+               <p>IN Summer take a Hogſhead, waſh it clean and ſcent it well, be ſure your Scent be very fine from the Lee, the foul Lee makes it boyl; take a handful of Pebble-ſtones, and thoſe will help it.</p>
+               <pb n="60" facs="tcp:52763:35"/>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a Pipe of Alligant.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a Pipe and waſh it very clean, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and take a Hogſhead of high-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ountrey Claret that is ſweet and fine, and rack it into the Pipe; then take 8 gallons of Soot and put to it, and beat it as you do Muskadine; be<g ref="char:EOLhyphen"/>fore you put it in, take 8 gallons of Sack, and the reſt of any Laggs of Claret; if it be not deep enough, you may put Red-wine into it; if not ſweet enough, 2 gallons of Honey, and beat it till it have a Pearl, and fill it into the Pipe; let it ſtand till it be fine, then rack it into another Pipe; then take 20 ounces of Ani<g ref="char:EOLhyphen"/>ſeeds, bruiſe them and put them into a Bag in at the Bung, and there let it be 12 or 14 days; then take it out, and it will ſerve very well.</p>
+               <p n="26">
+                  <pb n="61" facs="tcp:52763:35"/>26.<hi>For Claret that is tawny.</hi>
+               </p>
+               <p>TAke a pound of Turnſole, and ſteep it in ſome of the ſame Wine 24 hours; then put it into the Hogſhead through a Catch, beat it, and it will make perfect white.</p>
+               <p n="27">27.<hi>If Red-wines be dark.</hi>
+               </p>
+               <p>PUt into the Veſſel a gallon of Milk, then take as much Turn<g ref="char:EOLhyphen"/>ſole as you did before to your Claret, and uſe it as aboveſaid.</p>
+               <p n="28">28.<hi>How to make</hi> 10 <hi>gallons of Hip<g ref="char:EOLhyphen"/>pocras.</hi>
+               </p>
+               <p>TAke 10 ounces of Cinamon, as much Ginger, 5 ounces of Long Pepper, and 5 of Nutmegs, of Cloves 2 ounces, as much of Caraway-ſeed; beat all theſe together, and lay them in ſteep 24 hours in the Wine, the firſt half being Malaga, the other
+<pb n="62" facs="tcp:52763:36"/>White-wine; ſtir them well toge<g ref="char:EOLhyphen"/>ther, and let the Wine run through a Cloth; take a pound of powder'd Sugar, then run a pottle of Milk through the Bag into the Wine; when it is fine, put it into your Run<g ref="char:EOLhyphen"/>let, and give it a ſcent, and it wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> keep a quarter of a year.</p>
+               <p n="29">29.<hi>To make Scent.</hi>
+               </p>
+               <p>TAke a flat earthen Pan, put into it two penniworth of Brimſton<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beaten ſmall, and a penniworth of Aqua-vitae; put it over the fire, and when it is ready to boyl, let it run through a linnen Cloth, and let it be cold; and add a pound of Coriander-feed, Nutmegs, and Long Pepper beaten, and theſe will make a good Scent for any Wine.</p>
+               <p n="30">30.<hi>How to make</hi> 10 <hi>gallons of Soot.</hi>
+               </p>
+               <p>TAke 6 pound of Honey, and a quarter of a pound of Liquoriſh,
+<pb n="63" facs="tcp:52763:36"/>when the Bark is taken from it; beat it in a Mortar with 2 penniworth of Long Almonds, and boyl them in a Kettle ſtirring them well; and when it is cold, ſtrain it, and put it into a Runlet, and draw it with your Sack or <hi>Gaſcoign</hi>-Wine, and it will be pleaſant enough.</p>
+               <trailer>The End of the Third Book.</trailer>
+            </div>
+            <div n="4" type="book">
+               <pb n="64" facs="tcp:52763:37"/>
+               <head>The Fourth Book.</head>
+               <p n="1">1.<hi>For White-wine that is faint, and hath loſt its Colour.</hi>
+               </p>
+               <p>RAck it from its Bed, and if you have any Connick-Lees, you may put your faint or tawny Wines upon them; then rowl them over, or beat them twice a day, and within 10 or 12 days you may rack it off, and you ſhall have it brisk and white.</p>
+               <p n="2">2.<hi>Another for the ſame.</hi>
+               </p>
+               <p>TAke your Wine and rack it from its Lees; then take a pint of
+<pb n="65" facs="tcp:52763:37"/>Roach-Allom, the whites of 6 Eggs, a handful of Salt, and a quartern of Bean-flower, or a pound of Rice, and a little Conduit-water.</p>
+               <p n="3">3.<hi>To make white Lags.</hi>
+               </p>
+               <p>TAke a clean Runlet that will hold the quantity of them, and beat them with a Pearl made of Eggs, Bay-Salt and Roach-Allom, and whi<g ref="char:EOLhyphen"/>ten them with ſome Milk, and if you will, put ſome Canary in them, and it will draw very well.</p>
+               <p n="4">4.<hi>To make your Claret loſe Lags.</hi>
+               </p>
+               <p>DRaw them into a Runlet, put to them ſome Red-wine, as much Turnſole as will make it bright; beat it with as much Allom as will ſerve for the quantity of the Wine, and when it fines, you may draw it away with what you think good.</p>
+               <p n="5">
+                  <pb n="66" facs="tcp:52763:38"/>5.<hi>Another for making of white Lags.</hi>
+               </p>
+               <p>IF you have any white Lags, rack them upon half a Butt of Malaga and Canary Lees; let them lye about 3 weeks, and beat them up every other day upon thoſe Lees, till you have gathered the ſtrength thereof; let them abide thereon till they begin to fine, then rack them into a clean Cask, and give it a ſtrong ſcent, and if it be brown, white; if not, give it a good Pearl, and when it is fine, you may draw it as you ſee good.</p>
+               <p n="6">6.<hi>For Claret that hath loſt its Colour.</hi>
+               </p>
+               <p>IF his Lee be good and ſound, over<g ref="char:EOLhyphen"/>draw him 3 or 4 gallons; then fill him up with good Red-wine, and rowl him well upon his Lees, and let him lye all night upon his Bung, and in the morning lay it upright, and let it reſt till it be fine; then ſhall you have it well coloured.</p>
+               <p n="7">
+                  <pb n="67" facs="tcp:52763:38"/>7.<hi>For Claret that is faint, and hath loſt its Colour.</hi>
+               </p>
+               <p>RAck it into a freſh-drawn Hogs<g ref="char:EOLhyphen"/>head upon the red Lees; then take 5 pound of Turnſole, and ſteep it in part of the Wine; then waſh your Rapes clear out, and put it in the Hogſhead, with a pound of the beſt Allom; rowl them well toge<g ref="char:EOLhyphen"/>ther, and your Wine will be brisk and bright.</p>
+               <p n="8">8.<hi>For Red-wine that is faint, and hath loſt its Colour.</hi>
+               </p>
+               <p>RAck it upon a freſh Lee of Alli<g ref="char:EOLhyphen"/>gant or Red-wine; then take 3 pound of the beſt Turnſole, ſteep it in ſome of the ſame Wine, and when it is well ſteeped, wring it out, and put the Wine ſo coloured into a Run<g ref="char:EOLhyphen"/>let until it be fine; then draw it off, and put it into your Hogſhead, and it will make it perfect and bright.</p>
+               <p n="9">
+                  <pb n="68" facs="tcp:52763:39"/>9.<hi>Another way for the ſame.</hi>
+               </p>
+               <p>TAke hal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a buſhel of Elder-ber<g ref="char:EOLhyphen"/>ries where they be full ripe, pull them from their ſtalks, bruiſe them and preſerve them, and put the juyce of them (when you have occa<g ref="char:EOLhyphen"/>ſion) into your Red-wine, and it will make it drink brisk and bright.</p>
+               <p n="10">10.<hi>To rack Rheniſh-wine.</hi>
+               </p>
+               <p>RAck your Cask very clean, and let it remain full of water all night, and the next morning draw it clean out, and put a good Scent into it, and it will make the Wine fret and boyl; then if your Wine be hard, take 8 or 10 gallons of clarified Ho<g ref="char:EOLhyphen"/>ney, with a gallon or two of Milk, as you ſhall ſee good, beat it ſtrongly; if it be lumpiſh, give it a Pearl, and it will do well.</p>
+               <p n="11">
+                  <pb n="69" facs="tcp:52763:39"/>11.<hi>To make Rheniſh-wine.</hi>
+               </p>
+               <p>TAke a Hogſhead of <hi>Rochel</hi>-wine, ſcent it with a very ſtrong Scent; then take the whites of 8 or 10 Eggs, Bay-Salt or Conduit-wa<g ref="char:EOLhyphen"/>ter, then take 10 or 12 gallons of clarified Honey, take 60 or 80 pounds of Sugar; then ſtop it up cloſe after you have beaten it well, and you ſhall have it perfect, fine and good.</p>
+               <p n="12">12.<hi>For Sack that is lumpiſh or long.</hi>
+               </p>
+               <p>TAke the whites of Eggs, Bay-Salt, Roach-Allom, and 2 quarts of Bean-flower or beaten Rice, beat them together; if brown, uſe Milk; if white, uſe all theſe together; then blow off the froth, and lay a piece of Tyle over the Bung; then let it lye till it be fine; afterwards rack it off with a good Scent, and it will drink very well.</p>
+               <p n="13">
+                  <pb n="70" facs="tcp:52763:40"/>13.<hi>Another way.</hi>
+               </p>
+               <p>TAke a Hogſhead of Sherry-Sack, and 40 pounds of Canary-Sy<g ref="char:EOLhyphen"/>rup, it will coſt you 9<hi rend="sup">d</hi> a pound; then take a half-Tub; then draw ſome of your Wine, and beat it with a ſhort ſtubbed Broom; then put it into your Hogſhead, with Milk to whiten it; then beat it up with a Pearl, and if you ſweeten it, you may draw it for Malaga or White Baſtard.</p>
+               <p n="14">14.<hi>A Flavour for Sack or Baſtard.</hi>
+               </p>
+               <p>TAke half a pound of Aniſeeds, a penniworth of Ginger, Cloves, Grains, Long-Pepper and Liquoriſh, of each a penniworth; beat them, and hang them in your Wine in a lin<g ref="char:EOLhyphen"/>nen Bag, until the Wine taſte enough of the flavour; then take it out.</p>
+               <p n="15">
+                  <pb n="71" facs="tcp:52763:40"/>15.<hi>For Baſtard that pricks.</hi>
+               </p>
+               <p>RAck it upon a good Muskadine-Lee; then take 3 gallons of the beſt Ale, and 2 or 3 of the beſt Al<g ref="char:EOLhyphen"/>monds; then fill it up with Baſtard-Canary, or Sherry of Baſtard, mix'd with your Lags, and it will draw for Baſtard or Muskadine.</p>
+               <p n="16">16.<hi>Another for the ſame.</hi>
+               </p>
+               <p>TAke 5 gallons of clarified Honey, and put it into your Cask, and beat it up with a Pearl of whites and yelks of Eggs, and let it reſt.</p>
+               <p n="17">17.<hi>For</hi> Spaniſh<hi>-wines.</hi>
+               </p>
+               <p>FOr Sack that hath loſt its Colour, and hath a flying Lee, make a Plea of whites of Eggs, Bay-Salt and Conduit-water, and Milk, ſo much as you ſhall ſee good, beat all theſe together; then fill it up, and blow
+<pb n="72" facs="tcp:52763:41"/>off the froth very clean, and it will be white and good; and if you would keep it long, you muſt rack it into another Cask, and it will not then flower nor be ill-conditioned, for Milk will make it ſo.</p>
+               <p n="18">18.<hi>Another for your Rheniſh-wines.</hi>
+               </p>
+               <p>TAke a good handful of Firr bea<g ref="char:EOLhyphen"/>ten to powder, as much Juni<g ref="char:EOLhyphen"/>per, with the juyce of 2 or 3 Le<g ref="char:EOLhyphen"/>mons, and a few Cloves; beat all theſe together, and bruiſe them in your Wine till it taſte ſtrong of the Flower; then take it out, and draw it as you ſhall ſee good.</p>
+               <p n="19">19.<hi>For Alligant that pricks.</hi>
+               </p>
+               <p>TAke 2 or 3 Canns of brown Ba<g ref="char:EOLhyphen"/>ſtard, the ſweeteſt you have, and a pound of Turnſole, and waſh out the colour, then put it into your Wine; and if it be hard, then put in ſome more Baſtard; if it be tawny,
+<pb n="73" facs="tcp:52763:41"/>Put in more Turnſole; or for want of Baſtard, cut or clarified Honey as much will ſerve.</p>
+               <p n="20">20.<hi>To part a Butt of Muskadel.</hi>
+               </p>
+               <p>DRaw half your Wine into ano<g ref="char:EOLhyphen"/>ther Butt; then take your Lags of all ſorts that do not prick, and ſo much Syrup as will not prick; then take your Part and beat them up, and let it reſt after you have blown the froth from off it.</p>
+               <p n="21">21.<hi>The Flavour of your Muskadine.</hi>
+               </p>
+               <p>MAke a Bag of linnen Cloth, about a foot long; then take 4 ounces of Coriander-ſeed, 20 oun<g ref="char:EOLhyphen"/>ces of Ani-ſeed, 10 ounces of Allamus alamatus, one ounce of Cloves, one ounce of Ginger, a little handful of Sanders, a little Musk or Amber<g ref="char:EOLhyphen"/>greeſe; bruiſe all together, and put them into the Bag, and let it hang in the Wine till it hath given a flavour;
+<pb n="74" facs="tcp:52763:42"/>then take it out and let it reſt; or you may put in 3 grains of Musk, and ſome Cyprus, according as the quan<g ref="char:EOLhyphen"/>tity of your Wine is.</p>
+               <p n="22">22.<hi>How to uſe a Butt of Sack when it is muſty.</hi>
+               </p>
+               <p>TAke a gallon of Lime, and beat it ſmall, and put it into the Butt; then take a Staff and beat it, and let it ſtand a day or two.</p>
+               <p n="23">23.<hi>For Claret that hath loſt its Colour.</hi>
+               </p>
+               <p>TAke a penniworth of Damaſons or Bullace, or more as you ſee good, and ſtew them in Red-wine, and make a pottle of Syrup or more.</p>
+               <p n="24">24.<hi>To make brown Baſtard.</hi>
+               </p>
+               <p>TAke the Lugs of Claret and White-wine, and put them into your Cask with your Lugs of <hi>Spaniſh</hi>-Wine; and before it will prick, take
+<pb n="75" facs="tcp:52763:42"/>40 pound of Baſtard-Syrup, and mingle it well with ſome of the ſame in a half-Tub; then put it into your Cask, and beat it up with a Pearl of whites and yelks of Eggs, and let it reſt.</p>
+               <p n="25">25.<hi>A Receipt for Muskadel that pricks.</hi>
+               </p>
+               <p>
+                  <hi>IMprimis,</hi> For two penniworth of Grains, as much of Storax, Ben<g ref="char:EOLhyphen"/>jamin and Musk fere.</p>
+               <p n="26">26.<hi>A Receipt for Sack that pricks.</hi>
+               </p>
+               <p>
+                  <hi>IMprimis,</hi> For Orras-powder, take half an ounce of Ani-ſeeds, 3 pen<g ref="char:EOLhyphen"/>niworth of <hi>Spaniſh</hi>-white, 2 penni<g ref="char:EOLhyphen"/>worth of Roſe-water, and Allom boyled with the Roſe-water, and ſo take it and put it into the But.</p>
+               <p n="27">
+                  <pb n="76" facs="tcp:52763:43"/>27.<hi>A Receipt for Sack that will not fine.</hi>
+               </p>
+               <p>TAke 2 penniworth of Rice, and beat it up very ſmall, and 2 pen<g ref="char:EOLhyphen"/>niworth of Allom; this will keep your Wine from quarrelling, and make it fine.</p>
+               <p n="28">28.<hi>How to help Wine that hath loſt Co<g ref="char:EOLhyphen"/>lour and Strength.</hi>
+               </p>
+               <p>TAke 6 quarts of new Milk, the Cream being taken off, the whites of 22 Eggs, a handful of Bay-Salt, a quart of fine white-Flow<g ref="char:EOLhyphen"/>er, and 2 penniworth of Roach-Al<g ref="char:EOLhyphen"/>lom; beat theſe things a long ſpace, and put them into the Hogſhead; 2 pound of Stace will do well.</p>
+               <p n="29">
+                  <pb n="77" facs="tcp:52763:43"/>29.<hi>To give Sack Strength, if it lack and grow faint.</hi>
+               </p>
+               <p>MAke a Match of Ani-ſeeds and fine Fennel-ſeeds, a little Brim<g ref="char:EOLhyphen"/>ſtone, with a little quantity of Long-Pepper beaten not too ſmall; put all into a linnen Bag that will go in and out at the Bung-hole; then ſtop it up cloſe for the ſpace of 6 or 8 days.</p>
+               <p n="30">30.<hi>A Receipt for the Criſt.</hi>
+               </p>
+               <p>GInger and Cinamon, of each 3 ounces, Cloves 4 ounces, Nut<g ref="char:EOLhyphen"/>megs 10 penniworth, Coriander-ſeed 2 ounces, Carraway-ſeeds 11 ounces, Calamus 2 penniworth.</p>
+               <p n="31">31.<hi>A Note for Wines, and what Countrey.</hi>
+               </p>
+               <p>THe Wines of <hi>Bourdeaux</hi> are called <hi>Jaſterre;</hi> you ſhall know them by their ſmall Hazel-hoops, and likely they be full gage.</p>
+               <pb n="78" facs="tcp:52763:44"/>
+               <p n="32">32.</p>
+               <p>THen there are high-Countrey Wines, and they come not till <hi>Chriſtmas,</hi> for if they do they are for<g ref="char:EOLhyphen"/>feited; you ſhall know them by their Willow-hoops, and they moſt com<g ref="char:EOLhyphen"/>monly want of gage.</p>
+               <p n="33">33.</p>
+               <p>THen have you <hi>Galliack</hi> Wines in Pipes and Hogſheads, and they be high-coloured, and 3 quarters bound, and lack of gage 2 Teſters.</p>
+               <p n="34">34.<hi>A Remedy for the ſame.</hi>
+               </p>
+               <p>WAſh your Cask very clean, and let it be all night full of Wa<g ref="char:EOLhyphen"/>ter, and the next morning draw it clean out, burn a good Scent in it, and it will make your Wine fret and boyl; then if your Wine be hard, take 8 or 10 gallons of clarified Ho<g ref="char:EOLhyphen"/>ney,
+<pb n="79" facs="tcp:52763:44"/>with a gallon of Milk or two, as you ſhall ſee fit, beat it ſtrongly; if it be lumpiſh, you may give it a Pearl, and it will do well.</p>
+               <trailer>The End of the Fourth Book.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:52763:45"/>
+            <pb facs="tcp:52763:45"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>THe beſt way to help the fretting or boyling of any piece of <hi>Spaniſh</hi> Wine. <hi>page 1</hi>
+               </item>
+               <item>To keep <hi>Wines</hi> freſh all the year. <hi>p. 2</hi>
+               </item>
+               <item>For <hi>Canary</hi> having a flying Lee. <hi>ib.</hi>
+               </item>
+               <item>To make or divide <hi>Malmoſey. p. 3, 4</hi>
+               </item>
+               <item>For <hi>Claret</hi> that hath loſt its colour. <hi>p. 4</hi>
+               </item>
+               <item>For <hi>Baſtard</hi> that pricks. <hi>p. 5</hi>
+               </item>
+               <item>To make brown <hi>Baſtard. ib.</hi>
+               </item>
+               <item>For <hi>White-wine</hi> that hath loſt its Co<g ref="char:EOLhyphen"/>lour with lying. <hi>p. 6</hi>
+               </item>
+               <item>For <hi>Sack</hi> that is lumpiſh or lowring. <hi>ib.</hi>
+               </item>
+               <item>For <hi>Sack</hi> or any other Wine that doth prick or boyl. <hi>p. 7</hi>
+               </item>
+               <item>How to make <hi>Scent. ib.</hi>
+               </item>
+               <pb facs="tcp:52763:46"/>
+               <item>How to make <hi>Ipocris. p. 8</hi>
+               </item>
+               <item>To fine your <hi>Wines,</hi> and make them pleaſant. <hi>p. 9</hi>
+               </item>
+               <item>For <hi>Ipocris</hi> Gyle. <hi>ib.</hi>
+               </item>
+               <item>Another. <hi>p. 10</hi>
+               </item>
+               <item>
+                  <hi>Wines</hi> commonly compounded. <hi>p. 11</hi>
+               </item>
+               <item>The fitteſt times to rack <hi>Wine. ib.</hi>
+               </item>
+               <item>For <hi>White-wine</hi> that hath loſt its Co<g ref="char:EOLhyphen"/>lour. <hi>ib.</hi>
+               </item>
+               <item>How to break <hi>Wine</hi> that roaps. <hi>p. 12</hi>
+               </item>
+               <item>How to make any <hi>Wine</hi> ſpeedily fine. <hi>ib.</hi>
+               </item>
+               <item>For an Hogſhead of <hi>Claret</hi> or <hi>White-Wine</hi> that hath loſt its Colour. <hi>p. 13</hi>
+               </item>
+               <item>How to mend a Piece of <hi>Canary</hi> or Butt of <hi>Malaga</hi> that is brown. <hi>p. 14</hi>
+               </item>
+               <item>To flower a Butt of <hi>Muskadine. ib.</hi>
+               </item>
+               <item>How to make <hi>Rheniſh-wine. p. 15</hi>
+               </item>
+               <item>A Pearl for <hi>Malmoſey</hi> and for <hi>Muska<g ref="char:EOLhyphen"/>dine. p. 16</hi>
+               </item>
+               <item>How to make tawny <hi>Baſtard</hi> white. <hi>p. 17</hi>
+               </item>
+               <item>A Pearl for <hi>Scent,</hi> and Flavour for a Butt of <hi>Muskadine. p. 18</hi>
+               </item>
+               <item>If <hi>Wine</hi> have a Taſte or Scent. <hi>ib.</hi>
+               </item>
+               <item>If <hi>Claret</hi> be faint and want colour. <hi>p. 19</hi>
+               </item>
+               <item>A pleaſant Scent for <hi>Red-wine. p. 20</hi>
+               </item>
+               <item>If a Butt of <hi>Sack</hi> be ſmall. <hi>ib.</hi>
+               </item>
+               <pb facs="tcp:52763:46"/>
+               <item>If <hi>Wine</hi> grow long or lowring. <hi>p. 21</hi>
+               </item>
+               <item>If <hi>Sack</hi> or <hi>White-wine</hi> have loſt its Colour. <hi>ib.</hi>
+               </item>
+               <item>How to mend a Butt of <hi>Sack,</hi> &amp;c. that pricks. <hi>p. 22</hi>
+               </item>
+               <item>For pricking of <hi>French-wines. p. 23</hi>
+               </item>
+               <item>When <hi>Rheniſh-wine</hi> pricks. <hi>p. 24</hi>
+               </item>
+               <item>When <hi>Claret</hi> bath loſt its Briskneſs. <hi>ib.</hi>
+               </item>
+               <item>To help the Eagerneſs of hungry <hi>White-wine. p. 25</hi>
+               </item>
+               <item>To help ſtinking <hi>Wines. ib.</hi>
+               </item>
+               <item>For <hi>Claret</hi> that decays. <hi>p. 26</hi>
+               </item>
+               <item>To make <hi>Baſtard. ib.</hi>
+               </item>
+               <item>To make <hi>Rheniſh</hi> and <hi>Muskadel. p. 27</hi>
+               </item>
+               <item>If an Hogſhead of <hi>Claret</hi> or <hi>White-wine</hi> loſe its Colour. <hi>p. 28</hi>
+               </item>
+               <item>To colour <hi>Sack</hi> white. <hi>p. 29</hi>
+               </item>
+               <item>Of <hi>Rheniſh-wine. ib.</hi>
+               </item>
+               <item>For any <hi>Spaniſh wine</hi> that hath loſt its Colour and Taſte. <hi>p. 30</hi>
+               </item>
+               <item>For muddy or tawny <hi>Claret. p. 31</hi>
+               </item>
+               <item>For foul <hi>Rheniſh</hi> or <hi>French-wines. ib.</hi>
+               </item>
+               <item>A Lee of the Aſhes. <hi>p. 32</hi>
+               </item>
+               <item>To order <hi>Rheniſh-wines. p. 33</hi>
+               </item>
+               <item>To mend and preſerve <hi>Claret</hi>-colour. <hi>ib.</hi> and <hi>p. 34</hi>
+               </item>
+               <pb facs="tcp:52763:47"/>
+               <item>To mend <hi>Wine</hi> in Smell and Toſte. <hi>p. 34</hi>
+               </item>
+               <item>To mend and preſerve the Lees of Claret. <hi>p. 35</hi>
+               </item>
+               <item>For ſour <hi>French</hi> and <hi>Spaniſh-wines. p. 36</hi>
+               </item>
+               <item>For ſtinking <hi>Wines. p. 37</hi>
+               </item>
+               <item>For <hi>Wine</hi> that hath an ill Savour from Lees. <hi>ib.</hi>
+               </item>
+               <item>Otherwiſe. <hi>p. 38</hi>
+               </item>
+               <item>The beſt time to rack <hi>Wine. ib.</hi>
+               </item>
+               <item>A Scent for <hi>French</hi> or <hi>Spaniſh-wines. ib.</hi>
+               </item>
+               <item>For <hi>Malaga</hi>'s and <hi>French</hi> that will not fine. <hi>p. 39</hi>
+               </item>
+               <item>To keep <hi>Muſt</hi> a year. <hi>p. 40</hi>
+               </item>
+               <item>To keep <hi>Wines</hi> from turning flat, <hi>&amp;c. ib.</hi>
+               </item>
+               <item>To make <hi>Muskadine</hi> and <hi>Hippocris. p. 41</hi>
+               </item>
+               <item>For the boyling of <hi>Canary,</hi> &amp;c. <hi>p. 42</hi>
+               </item>
+               <item>For <hi>Claret</hi> all <hi>Rheniſh</hi> that frets, <hi>&amp;c. p. 43</hi>
+               </item>
+               <item>For <hi>Spaniſh-wine</hi> diſturb'd, <hi>&amp;c. p. 44</hi>
+               </item>
+               <item>For <hi>Spaniſh,</hi> &amp;c. grown yellow, <hi>&amp;c. p. 45</hi>
+               </item>
+               <item>To correct roapiſh <hi>Wines,</hi> &amp;c. <hi>ib.</hi>
+               </item>
+               <item>An Example to attenuate <hi>Spaniſh,</hi> &amp;c. <hi>p. 46, 47</hi>
+               </item>
+               <pb facs="tcp:52763:47"/>
+               <item>For <hi>Claret</hi> decay'd in Colour. <hi>p. 48, 49</hi>
+               </item>
+               <item>For faint, pricking and boyling Sack, <hi>&amp;c. p. 50</hi>
+               </item>
+               <item>For <hi>Sack</hi> that will not fine and is hagar. <hi>p. 51</hi>
+               </item>
+               <item>To make a gallon of <hi>Hippocras. p. 52</hi>
+               </item>
+               <item>To make <hi>Baſtard</hi> white. <hi>p. 53</hi>
+               </item>
+               <item>To make a Butt of <hi>Muskadine. ib.</hi>
+               </item>
+               <item>For <hi>Claret</hi> that hath loſt its Colour. <hi>ib.</hi>
+               </item>
+               <item>For lumpiſh and lowring <hi>White-wine. p. 54</hi>
+               </item>
+               <item>A Flavour for a Pipe of <hi>Canary. ib.</hi>
+               </item>
+               <item>To make an excellent Scent. <hi>p. 55</hi>
+               </item>
+               <item>The beſt time to taſte <hi>Wines. ib.</hi>
+               </item>
+               <item>For <hi>Spaniſh</hi> that will not fine. <hi>p. 56</hi>
+               </item>
+               <item>For whiting a Butt of <hi>Sack. ib.</hi>
+               </item>
+               <item>For high-Countrey <hi>Wines. p. 57</hi>
+               </item>
+               <item>For <hi>White-wines</hi> that fret. <hi>ib.</hi>
+               </item>
+               <item>For <hi>Spaniſh-wines</hi> that prick. <hi>ib.</hi>
+               </item>
+               <item>To make <hi>Malaga</hi> for a Need. <hi>p. 58</hi>
+               </item>
+               <item>For <hi>Sack</hi> that hath loſt its Colour, or is muſty. <hi>ib.</hi>
+               </item>
+               <item>To preſerve <hi>Malmſey. ib.</hi>
+               </item>
+               <item>For a Pipe of <hi>Sack</hi> that is long. <hi>p. 59</hi>
+               </item>
+               <item>To help the boyling of <hi>Gaſcoin-wine. ib.</hi>
+               </item>
+               <item>To make a Pipe of <hi>A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gant. p. 60</hi>
+               </item>
+               <pb facs="tcp:52763:48"/>
+               <item>For tawny <hi>Claret. p. 61</hi>
+               </item>
+               <item>For dark <hi>Red-wines. ib.</hi>
+               </item>
+               <item>To make <hi>10</hi> gallons of <hi>Hippocras. ib.</hi>
+               </item>
+               <item>To make Scent. <hi>p. 62</hi>
+               </item>
+               <item>To make <hi>10</hi> gallons. of Soot. <hi>ib.</hi>
+               </item>
+               <item>For <hi>White-wine</hi> that is faint and hath loſt its Colour. <hi>p. 64</hi>
+               </item>
+               <item>To make white Lags. <hi>p. 65</hi>
+               </item>
+               <item>To make your Claret loſe Lags. <hi>ib.</hi>
+               </item>
+               <item>Another to make white Lags. <hi>p. 66</hi>
+               </item>
+               <item>For <hi>Claret</hi> that hath loſt its Colour. <hi>ib.</hi>
+               </item>
+               <item>For <hi>Claret</hi> and <hi>Red-wine</hi> that is faint, <hi>&amp;c. p. 67</hi>
+               </item>
+               <item>Another way. <hi>p. 68</hi>
+               </item>
+               <item>To rack <hi>Rheniſh-wine. ib.</hi>
+               </item>
+               <item>To make <hi>Rheniſh-wine. p. 69</hi>
+               </item>
+               <item>For long or lumpiſh <hi>Sack. ib.</hi>
+               </item>
+               <item>Another way. <hi>p. 70</hi>
+               </item>
+               <item>A Flavour for <hi>Sack</hi> or <hi>Baſtard. ib.</hi>
+               </item>
+               <item>For <hi>Baſtard</hi> that pricks. <hi>p. 71</hi>
+               </item>
+               <item>For <hi>Spaniſh-wines. ib.</hi>
+               </item>
+               <item>Another for <hi>Rheniſh-wines. p. 72</hi>
+               </item>
+               <item>For <hi>Alligant</hi> that pricks. <hi>ib.</hi>
+               </item>
+               <item>To part a Butt of <hi>Muskadel. p. 73</hi>
+               </item>
+               <item>The Flavour of your <hi>Muskadine. ib.</hi>
+               </item>
+               <pb facs="tcp:52763:48"/>
+               <item>How to uſe a Butt of <hi>Sack</hi> when it is muſty. <hi>p. 74</hi>
+               </item>
+               <item>For <hi>Claret</hi> that hath loſt its Colour. <hi>ib.</hi>
+               </item>
+               <item>To make brown <hi>Baſtard. ib.</hi>
+               </item>
+               <item>A Receipt for <hi>Muskadel</hi> that pricks. <hi>p. 75</hi>
+               </item>
+               <item>A Receipt for <hi>Sack</hi> that pricks. <hi>ib.</hi>
+               </item>
+               <item>A Receipt for <hi>Sack</hi> that will not fine. <hi>p. 76</hi>
+               </item>
+               <item>How to help <hi>Wine</hi> that hath loſt Colour and Strength. <hi>ib.</hi>
+               </item>
+               <item>To give <hi>Sack</hi> Strength, if it lack and grow faint. <hi>p. 77</hi>
+               </item>
+               <item>A Receipt for the <hi>Criſt. ib.</hi>
+               </item>
+               <item>A Note for <hi>Wines,</hi> and what Countrey. <hi>ib.</hi>
+               </item>
+               <item>A Remedy for the ſame. <hi>p. 78</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52763:49"/>
+            <pb facs="tcp:52763:49" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
